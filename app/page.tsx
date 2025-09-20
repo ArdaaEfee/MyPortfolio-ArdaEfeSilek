@@ -70,8 +70,8 @@ export default function Home() {
               </p>
               <p>
                 {language === "tr" 
-                  ? "PCB tasarımı, drone ve otonom sistemler üzerine projeler geliştiriyorum. Aynı zamanda web geliştirme ve IoT alanlarında kendimi sürekli olarak geliştiriyorum."
-                  : "I develop projects on PCB design, drones, and autonomous systems. I am also constantly improving myself in web development and IoT."}
+                  ? "Drone ve otonom sistemler üzerine projeler geliştiriyorum. Aynı zamanda web geliştirme ve IoT alanlarında kendimi sürekli olarak geliştiriyorum."
+                  : "I develop projects on drones, and autonomous systems. I am also constantly improving myself in web development and IoT."}
               </p>
               <p>
                 {language === "tr" 
