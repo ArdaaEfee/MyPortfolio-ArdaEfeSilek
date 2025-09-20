@@ -21,14 +21,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="tr">
       <head>
         {/* Google Analytics */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RY0PMHZ3N1"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CG03B122ZN"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-RY0PMHZ3N1');
+              gtag('config', 'G-CG03B122ZN');
             `,
           }}
         />
